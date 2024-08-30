@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-50.woff2') format('woff2'),
+        url('Aspekta-50.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-200.woff2') format('woff2'),
+        url('Aspekta-200.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-300.woff2') format('woff2'),
+        url('Aspekta-300.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-150.woff2') format('woff2'),
+        url('Aspekta-150.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-250.woff2') format('woff2'),
+        url('Aspekta-250.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-100.woff2') format('woff2'),
+        url('Aspekta-100.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-750.woff2') format('woff2'),
+        url('Aspekta-750.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-350.woff2') format('woff2'),
+        url('Aspekta-350.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-550.woff2') format('woff2'),
+        url('Aspekta-550.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-650.woff2') format('woff2'),
+        url('Aspekta-650.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-1000.woff2') format('woff2'),
+        url('Aspekta-1000.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-950.woff2') format('woff2'),
+        url('Aspekta-950.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-600.woff2') format('woff2'),
+        url('Aspekta-600.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-900.woff2') format('woff2'),
+        url('Aspekta-900.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-850.woff2') format('woff2'),
+        url('Aspekta-850.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-450.woff2') format('woff2'),
+        url('Aspekta-450.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-700.woff2') format('woff2'),
+        url('Aspekta-700.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-500.woff2') format('woff2'),
+        url('Aspekta-500.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-400.woff2') format('woff2'),
+        url('Aspekta-400.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aspekta';
+    src: url('Aspekta-800.woff2') format('woff2'),
+        url('Aspekta-800.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
